@@ -1,0 +1,15 @@
+current directory: /Users/tomitakenji/SampleWebApp/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+/Users/tomitakenji/.rbenv/versions/2.6.2/bin/ruby -I /Users/tomitakenji/.rbenv/versions/2.6.2/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200626-71354-7hayqk.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tomitakenji/SampleWebApp/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/tomitakenji/SampleWebApp/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/tomitakenji/SampleWebApp/vendor/bundle/ruby/2.6.0/gems/websocket-driver-0.7.2/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20200626-71354-hiar2k
